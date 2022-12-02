@@ -1,0 +1,14 @@
+.bg-main-color {
+    background-image: linear-gradient(rgb(232, 46, 46), rgb(235, 117, 117));
+  }
+
+.pink-red{
+    
+    background-image: linear-gradient(rgb(229, 38, 98), rgb(244, 92, 92));
+}
+
+.main-bg-color{
+
+    background-image: linear-gradient(rgb(211, 211, 211), rgb(211, 211, 211));
+   
+}
