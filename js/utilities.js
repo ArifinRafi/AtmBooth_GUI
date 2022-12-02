@@ -21,3 +21,10 @@ function set_newValue(idOftheElement, newVal) {
     const prev_val = document.getElementById(idOftheElement);
     prev_val.innerText = newVal;
 }
+
+function get_login_element(idOftheElement) {
+    const inputField = document.getElementById(idOftheElement);
+    const inputString = inputField.value;
+    return inputString;
+
+}
