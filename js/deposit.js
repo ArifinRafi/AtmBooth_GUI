@@ -9,10 +9,6 @@ document.getElementById('deposit-btn').addEventListener('click', function() {
     const newBalance = prevBalance + inputDepositAmaount;
     set_newValue('balance-print', newBalance);
 
-
-    
-
-
 })
 
 
